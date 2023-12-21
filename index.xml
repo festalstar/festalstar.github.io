@@ -39,6 +39,7 @@ OpenSSL SSL_connect: Connection was reset in connection to github.com:443 #ä¿®æ”
       <guid>https://festalstar.github.io/posts/my-first-post/</guid>
       <description>test12123
 Introduction This is bold text, and this is emphasized text.
+deploy test
 Visit the Hugo website!</description>
     </item>
   </channel>
