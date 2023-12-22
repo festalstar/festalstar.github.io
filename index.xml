@@ -14,7 +14,7 @@
     <lastBuildDate>Wed, 20 Dec 2023 22:30:32 +0800</lastBuildDate>
     <atom:link href="https://festalstar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>git常用命令</title>
       <link>https://festalstar.github.io/posts/gitcmd/</link>
       <pubDate>Wed, 20 Dec 2023 22:30:32 +0800</pubDate>
       <guid>https://festalstar.github.io/posts/gitcmd/</guid>
@@ -33,12 +33,11 @@ git clone https://github.com/festalstar/hugo_blog.git
 OpenSSL SSL_connect: Connection was reset in connection to github.com:443 #修改 Git 的网络设置 git config &amp;ndash;global http.proxy http://127.</description>
     </item>
     <item>
-      <title>My First Post</title>
+      <title>test</title>
       <link>https://festalstar.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 20 Dec 2023 11:10:34 +0800</pubDate>
+      <pubDate>Wed, 20 Dec 2023 22:30:32 +0800</pubDate>
       <guid>https://festalstar.github.io/posts/my-first-post/</guid>
-      <description>test12123
-Introduction This is bold text, and this is emphasized text.
+      <description>标题1 标题2 标题21 Git上传文件到Github(最详细) 大致步骤 本地仓库：
 deploy test
 Visit the Hugo website!</description>
     </item>
