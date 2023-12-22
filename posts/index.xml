@@ -18,28 +18,14 @@
       <link>https://festalstar.github.io/posts/gitcmd/</link>
       <pubDate>Wed, 20 Dec 2023 22:30:32 +0800</pubDate>
       <guid>https://festalstar.github.io/posts/gitcmd/</guid>
-      <description>Git上传文件到Github(最详细) 大致步骤 本地仓库：
-a. git init 在本地创建一个Git仓库；
-b. git add . 将项目添加到暂存区；
-c. git commit -m &amp;ldquo;注释内容&amp;rdquo; 将项目提交到Git仓库；
-远程仓库：
-a. 添加SSH KEY；
-b. 新建repositories；
-本地仓库：
-a. git remote add origin git@github.com:UserName/projectName.git 将本地仓库与远程仓库关联；
-b. git push -u origin master/main 将本地项目推送到远程仓库。
-git pull origin main // 把本地仓库的变化连接到远程仓库主分支 //理解是上传本地文件到远程仓库 git branch -M main //选择main分支，可以改名上传其它分支
-git clone https://github.com/festalstar/hugo_blog.git
-OpenSSL SSL_connect: Connection was reset in connection to github.com:443 #修改 Git 的网络设置 git config &amp;ndash;global http.proxy http://127.</description>
+      <description>Git上传文件到Github(最详细) 大致步骤 本地仓库： a. git init 在本地创建一个Git仓库； b. git add . 将项目添加到暂存区； c. git commit -m &amp;ldquo;注</description>
     </item>
     <item>
       <title>test</title>
       <link>https://festalstar.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 20 Dec 2023 22:30:32 +0800</pubDate>
       <guid>https://festalstar.github.io/posts/my-first-post/</guid>
-      <description>标题1 标题2 标题21 Git上传文件到Github(最详细) 大致步骤 本地仓库：
-deploy test
-Visit the Hugo website!</description>
+      <description>标题1 标题2 标题21 标题11 标题90 Git上传文件到Github(最详细) 大致步骤 本地仓库： deploy test Visit the Hugo website!</description>
     </item>
   </channel>
 </rss>
