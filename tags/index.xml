@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on fsblog</title>
+    <title>Tags on festalstar blog</title>
     <link>https://festalstar.github.io/tags/</link>
-    <description>Recent content in Tags on fsblog</description>
+    <description>Recent content in Tags on festalstar blog</description>
     <image>
-      <title>fsblog</title>
+      <title>festalstar blog</title>
       <url>https://festalstar.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://festalstar.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 20 Dec 2023 22:30:32 +0800</lastBuildDate>
     <atom:link href="https://festalstar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git</title>
+      <link>https://festalstar.github.io/tags/git/</link>
+      <pubDate>Wed, 20 Dec 2023 22:30:32 +0800</pubDate>
+      <guid>https://festalstar.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>markdown</title>
+      <link>https://festalstar.github.io/tags/markdown/</link>
+      <pubDate>Wed, 20 Dec 2023 22:30:32 +0800</pubDate>
+      <guid>https://festalstar.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
