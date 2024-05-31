@@ -18,7 +18,7 @@
       <link>https://festalstar.github.io/posts/gitcmd/</link>
       <pubDate>Wed, 20 Dec 2023 22:30:32 +0800</pubDate>
       <guid>https://festalstar.github.io/posts/gitcmd/</guid>
-      <description>test Git上传文件到Github(最详细) 大致步骤 本地仓库： a. git init 在本地创建一个Git仓库； b. git add . 将项目添加到暂存区； c. git commit -m &amp;ldquo;</description>
+      <description>Git上传文件到Github(最详细) 大致步骤 本地仓库： a. git init 在本地创建一个Git仓库； b. git add . 将项目添加到暂存区； c. git commit -m &amp;ldquo;注</description>
     </item>
   </channel>
 </rss>
